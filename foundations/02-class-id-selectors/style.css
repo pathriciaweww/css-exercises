@@ -1,0 +1,23 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.oddNum{
+    background-color: lightpink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#blueText{
+    color: blue;
+    font-size: 36px;
+}
+
+.biggerFont{
+    font-size: 24px;
+}
+
+#fourthElement{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
